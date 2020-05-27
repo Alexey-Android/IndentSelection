@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PaddingTheme</string>
+    <string name="ok">OK</string>
+    <string name="selectLanguage">言語を選択</string>
+    <string name="silicon_valley">シリコンバレー</string>
+    <string name="indent">パディングを選択</string>
+    <string-array name="languages">
+        <item>english</item>
+        <item>russian</item>
+        <item>japanese</item>
+    </string-array>
+
+    <string-array name="indent">
+        <item>small</item>
+        <item>medium</item>
+        <item>big</item>
+    </string-array>
+</resources>
